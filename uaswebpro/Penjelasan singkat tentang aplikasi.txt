@@ -1,0 +1,17 @@
+Nama : I Made Landiva
+NIM :2201010591
+
+Penjelasan singkat tentang aplikasi yang saya buat: 
+Jadi aplikasi yang saya buat adalah aplikasi kritik dan saran kampus Instiki. Dimana terdapat 2 user yaitu mahasiswa(pengguna yang memberikan kritik dan saran) 
+dan admin(sebagai penerima kritikan dan saran dari mahasiswa). Pada Aplikasi ini saya menggunakan tempalte admin dari Mazer dengan perubahan sesuai kebutuhan.
+
+Untuk mengakses halaman index(mahasiswa) harus login terlebih dahulu dengan menginputkan username dengan nim dan password dengan nim. Mahasiswa tidak perlu 
+melakukan register karena data mahasiswa sudah ditambahkan oleh admin. Pada halaman index terdapat form input kritik & saran dan terdapat juga tabel daftar 
+kritik dan saran yang sudah di kirim oleh mahasiswa. mahasiswa dapat melihat detail kritik dan saran yang sudah di kirim dan juga dapat menghapus kritik dan 
+saran yang sudah di kirim.
+
+Untuk mengakses halaman admin login menggunakan username: admin dan password: admin. pada halaman admin terdapat menu data mahasiswa dan data kritik dan saran. 
+Pada menu data mahasiswa terdapat tabel data mahasiswa instiki. Admin dapat menambah data mahasiswa, mengedit data mahasiswa dan menghapus data mahasiswa. 
+Pada menu Kritik dan Saran terdapat tabel yang menampilkan kritik dan saran yang dikirim oleh mahasiswa. Admin dapat melihat detail kritik dan saran yang ada. 
+
+Sekian penjelasan singkat dari aplikasi yang saya buat. alangkah baiknya untuk langsung melakukan demo program.
